@@ -1,0 +1,1 @@
+Run the main.ipynb to generate the 3fold vitbase_patch trained models
